@@ -42,8 +42,6 @@ cvlib ---> for object detection
 videogear --->for accessing live video
 vidgear ---> for accessing live video
 yt-dlp ---> To access live cctv footage from youtube
-# Demo
-
 # Contributing
 Contributions to the Slot-Finder project are welcome! Here are some ways you can contribute:
 * Report any issues or bugs you encounter
