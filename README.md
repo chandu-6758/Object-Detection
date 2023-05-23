@@ -28,20 +28,20 @@ Run main2.py for detecting and specifying the count of an individual object usin
 * For running main.py:
 Open Thonny python IDE  :
 Open Tools tab ----> Manage packages
-We will get packages window 
-Now Install the below mentioned packages
-opencv-python version -4.7.0.68
-yolov5
-* For running main2.py:
+* We will get packages window 
+* Now Install the below mentioned packages
+* opencv-python version -4.7.0.68
+* yolov5
+ For running main2.py:
 open Tools tab ----> Manage packages
-We will get packages window 
-Now Install the below mentioned packages
-opencv-python version -4.7.0.68
-tensorflow
-cvlib ---> for object detection
-videogear --->for accessing live video
-vidgear ---> for accessing live video
-yt-dlp ---> To access live cctv footage from youtube
+* We will get packages window 
+* Now Install the below mentioned packages
+* opencv-python version -4.7.0.68
+* tensorflow
+* cvlib ---> for object detection
+* videogear --->for accessing live video
+* vidgear ---> for accessing live video
+* yt-dlp ---> To access live cctv footage from youtube
 # Contributing
 Contributions to the Slot-Finder project are welcome! Here are some ways you can contribute:
 * Report any issues or bugs you encounter
