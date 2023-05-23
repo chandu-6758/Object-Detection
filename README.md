@@ -43,8 +43,14 @@ Open Tools tab ----> Manage packages
 * videogear --->for accessing live video
 * vidgear ---> for accessing live video
 * yt-dlp ---> To access live cctv footage from youtube
+# Demo
+
+
+https://github.com/chandu-6758/Object-Detection/assets/132383868/c53f3cd6-9a75-423e-becf-c5cfe7cdecd8
+
+
 # Contributing
-Contributions to the Slot-Finder project are welcome! Here are some ways you can contribute:
+Contributions to the Object-Detection project are welcome! Here are some ways you can contribute:
 * Report any issues or bugs you encounter
 * Suggest new features or improvements
 * Fork the repository and submit a pull request
