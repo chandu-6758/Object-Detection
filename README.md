@@ -25,15 +25,16 @@ Install Thonny python IDE.
 Run main.py for detecting and counting the objects using live camera.
 Run main2.py for detecting and specifying the count of an individual object using live cctv footage.
 # Project Dependencies and Installation
-* For running main.py:
+For running main.py:
 Open Thonny python IDE  :
 Open Tools tab ----> Manage packages
 * We will get packages window 
 * Now Install the below mentioned packages
 * opencv-python version -4.7.0.68
 * yolov5
+
  For running main2.py:
-open Tools tab ----> Manage packages
+   open Tools tab ----> Manage packages
 * We will get packages window 
 * Now Install the below mentioned packages
 * opencv-python version -4.7.0.68
